@@ -65,7 +65,7 @@ nw(cybersecurity_flag_captured_2608)
 
 ### 📸 Evidence
 
-![W3-PM1 Flag 1](evidence/pm1-flag1.png)
+![W3-PM1 Flag 1](https://github.com/bozet/Password-Security-Password-Recovery-Lab/blob/main/hack1.jpg)
 
 ---
 
@@ -102,7 +102,7 @@ nw(networkwalks_flag1_jtr_270521_1)
 
 ### 📸 Evidence
 
-![W3-PM2 Flag 1](evidence/pm2-flag1.png)
+![W3-PM2 Flag 1](https://github.com/bozet/Password-Security-Password-Recovery-Lab/blob/main/hack2flagnwtools.jpg)
 
 ---
 
